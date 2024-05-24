@@ -26,3 +26,9 @@ The analysis is centred on the following points:
 10) Promotion through web channels has a higher conversion rate.
 11) 41% conversion is from discount 34% conversion is from BOGO offer and the rest conversion has no discount applied.
 
+# Report Screenshot
+![Image Alt text](/Report_Screenshot/home_page.png)
+![Image Alt text](/Report_Screenshot/revenue_page.png)
+![Image Alt text](/Report_Screenshot/rfm_page.png)
+![Image Alt text](/Report_Screenshot/churn_page.png)
+![Image Alt text](/Report_Screenshot/sales_marketing_page.png)
